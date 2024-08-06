@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Worked with senior Scientist",
+    "organisation": "DRDO",
+    "startDate": "Aug, 2023",
+    "endDate": "Nov, 2023",
+    "location": "New Delhi",
+    "experiences": [
+      "Worked with  senior scientist",
+      "Worked with the DRDO  Team"
+    ],
+    "imageSrc": "company/IMG12.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Coding Instructor and product engineering - I",
+    "organisation": "Coding Blocks",
+    "startDate": "Dec, 2023",
+    "endDate": "May, 2024",
+    "location": "New Delhi",
+    "experiences": [
+      "I teched C++, Data Structure and Algorithem ",
+      "i solved 450+ Doubt of Ciding Question"
+    ],
+    "imageSrc": "company/5jpg.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2024",
+    "endDate": "July, 2024",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]

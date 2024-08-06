@@ -1,0 +1,67 @@
+/* Project.css */
+
+/* General styles */
+h1{
+    color: rgb(80, 76, 76);
+    margin-left: 5vw;
+}
+.container.projects {
+    padding: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  /* iPad view (768px and up) */
+  @media (min-width: 768px) {
+    .card {
+      width: 100%;
+      max-width: 300px;
+      margin: 0 auto;
+      /* margin-left: 7vw; */
+    }
+  
+    .img img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
+  /* Mobile view (up to 767px) */
+  @media (max-width: 767px) {
+    .container.projects {
+      padding: 10px;
+    }
+  
+    .card {
+      width: 100%;
+      max-width: 300px;
+      /* margin: 0 auto; */
+      margin-left: 67vw;
+      
+    }
+  
+    .img img {
+      width: 100%;
+      height: auto;
+    }
+  
+    .card-body {
+      padding: 10px;
+    }
+  
+    .card-title {
+      font-size: 1.2em;
+    }
+  
+    .card-text {
+      font-size: 0.9em;
+    }
+  
+    .btn {
+      font-size: 0.8em;
+      padding: 5px 10px;
+    }
+  }
+  
